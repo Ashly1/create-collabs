@@ -1,0 +1,46 @@
+.header{
+	display: flex;
+	max-width: 82%;
+	margin: 0 auto;
+}
+.create {
+	width: 33%;
+	float: left;
+}
+.hmiddle{
+	/*margin-top: 30px;*/
+	padding-right:10px;
+	width: 33%;
+	float: left;
+}
+.start {
+	width: 33%;
+    float: left;
+}
+.main{
+	display: flex;
+	max-width: 100%;
+	margin: 0 auto;
+}
+.main1 img{
+	display: flex;
+	width: 100%;
+	height: 36rem;
+}
+.main2 img{
+	width: 100%;
+	height: 36rem;
+}
+.main3 img{
+	width: 100%;
+	height: 36rem;
+}
+.main4 img{
+	width: 102%;
+	height: 36rem;
+}
+.search {
+	background-color:#50BBBC;
+	margin-left: 102px;
+	font-size: 23px;
+}
